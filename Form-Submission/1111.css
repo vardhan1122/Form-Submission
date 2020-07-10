@@ -1,0 +1,52 @@
+body{
+border-box:100%;
+padding:10px 20px 10px  10px;
+}
+
+#lab{
+width:30%;
+display:inline-block;
+padding:10px 10px 10px  10px;
+
+}
+
+
+form{
+width:40%;
+margin-top:20px;
+margin-left:20px;
+background:#58D68D ;
+pading:10px 10px 10px 10px;
+}
+
+.input-container{
+dispaly:center;
+margin-bottom:15px;
+}
+#name{
+border:5px solid yellow;
+padding:6px;
+}
+.icon{
+background:blue;
+border-box:10px;
+padding:5px;
+border:5px solid red;
+text-align:center;
+}
+.submit{
+text-align:center;
+margin-left:40px;
+padding:10px 10px 10px 10px;
+color:#E6B0AA;
+}
+.war{
+padding:6px 80px;
+border:4px dotted #78281F;
+}
+#button{
+padding:10px 30px 10px 30px;
+background:#D7BDE2;
+border:5px solid yellow;
+
+}
